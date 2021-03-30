@@ -1,0 +1,2 @@
+G = "hhh"
+print(G)
