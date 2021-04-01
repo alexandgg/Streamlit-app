@@ -33,11 +33,12 @@ selected_tickers = fundamental_df[(fundamental_df["Risk Cluster"].isin(risk)) & 
 
 selected_df = fundamental_df[(fundamental_df["Risk Cluster"].isin(risk)) & (fundamental_df["Fundamental Cluster"].isin(funds_selected)) & (fundamental_df["Category"].isin(category_selected))  ]
 
-col4, col5 = st.beta_columns(2)
-col4.dataframe(selected_df)
+if len(risk) > 0 and len(funds) > 0 and len(category)>0:
+    col4, col5 = st.beta_columns(2)
+    col4.dataframe(selected_df)
 
-fig = px.pie(selected_df, names = "Category", title="Asset Universe Allocation")
-col5.plotly_chart(fig)
+    fig = px.pie(selected_df, names = "Category", title="Asset Universe Allocation")
+    col5.plotly_chart(fig)
 
 
 
