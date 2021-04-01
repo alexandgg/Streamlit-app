@@ -1,0 +1,981 @@
+Ticker,Category,Fundamental Cluster,Risk Cluster
+SPY,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IVV,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VTI,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VOO,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+QQQ,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VEA,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IEFA,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VWO,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VUG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IEMG,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IWF,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VTV,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IWM,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IJR,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IJH,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EFA,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VIG,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IWD,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VGT,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VO,Mid-Cap Blend,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+VXUS,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XLK,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VB,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+USMV,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IVW,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ITOT,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VYM,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VEU,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EEM,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IWB,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SCHX,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+XLV,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IXUS,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IWR,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XLF,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+DIA,Large Value,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SCHF,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+QUAL,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VV,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IVE,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XLY,Consumer Cyclical,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SCHB,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+RSP,Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VBR,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+MDY,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ARKK,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SDY,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VT,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+GDX,Equity Precious Metals,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SCHD,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+XLI,Industrials,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+IWP,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+DGRO,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VGK,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DVY,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VBK,Small Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ACWI,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VXF,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EWJ,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XLP,Consumer Defensive,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+SCHG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+XLE,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+MTUM,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VHT,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SCHA,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XLU,Utilities,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IWO,Small Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IWN,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IWS,Mid-Cap Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+GSLC,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FDN,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SCZ,Foreign Small/Mid Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VOE,Mid-Cap Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EFAV,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IWV,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IUSG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IBB,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VOT,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FVD,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EFG,Foreign Large Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+MGK,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+TQQQ,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility
+SPYG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VLUE,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IHI,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SPDW,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SCHE,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPLV,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SCHM,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SCHV,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IJK,Mid-Cap Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPLG,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IUSV,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ARKG,Health,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+SPYV,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EFV,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+OEF,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VFH,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+EWY,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+NOBL,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FTCS,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+XBI,Health,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+IYW,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EWZ,Latin America Stock,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+MCHI,China Region,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IJS,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+GDXJ,Equity Precious Metals,Mid Fundamentals Broad Market,High Risk - Double Market Volatile
+SKYY,Technology,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+ESGE,,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IGV,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ACWV,World Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+HDV,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VSS,Foreign Small/Mid Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VDC,Consumer Defensive,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+AAXJ,Pacific/Asia ex-Japan Stk,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VONG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IJJ,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EWT,China Region,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FNDF,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FNDX,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FTEC,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ARKW,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IJT,Small Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XLB,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EZU,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DGRW,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IXN,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SPEM,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VOOG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SOXX,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VCR,Consumer Cyclical,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+INDA,India Equity,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ICLN,Miscellaneous Sector,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VPL,Diversified Pacific/Asia,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PRF,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VPU,Utilities,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SPTM,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+AMLP,Energy Limited Partnership,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+EEMV,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+MOAT,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FXI,,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IEUR,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+QLD,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility
+SMH,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VIS,Industrials,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+IDV,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ACWX,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DBEF,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FNDA,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+KWEB,China Region,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ONEQ,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FNDE,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+TAN,Miscellaneous Sector,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+GUNR,Natural Resources,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+MGV,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IWY,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SPMD,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XSOE,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VONV,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+QTEC,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VDE,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+MGC,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VOX,Communications,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPSM,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VTWO,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IGM,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SSO,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility
+IGF,Infrastructure,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CIBR,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+XT,Miscellaneous Sector,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VIGI,Foreign Large Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+SCHC,Foreign Small/Mid Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JETS,Miscellaneous Sector,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+EWU,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ITA,Industrials,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IOO,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SLYV,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RPG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EWC,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DON,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IQLT,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DSI,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EWG,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DLN,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FXL,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+AIA,Pacific/Asia ex-Japan Stk,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PBW,Miscellaneous Sector,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+SPHD,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+KBE,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+IYH,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IXJ,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FHLC,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SPHQ,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+HEFA,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PDP,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SPYD,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FV,Large Growth,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ASHR,China Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RYT,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+XOP,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+VAW,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+GSIE,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FNDC,Foreign Small/Mid Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SUSA,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+NFRA,Infrastructure,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FAS,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+RODM,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EPP,Pacific/Asia ex-Japan Stk,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+TECL,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility
+FBT,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ITB,Consumer Cyclical,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+MDYG,Mid-Cap Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+HACK,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VONE,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FPX,Large Growth,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+HEDJ,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SLYG,Small Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+KRE,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+QCLN,Miscellaneous Sector,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SOXL,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility
+FEZ,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JHMM,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JKE,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+RDVY,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SH,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+GXC,China Region,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+UPRO,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+GEM,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EWA,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EWL,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+XLG,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+XMLV,Mid-Cap Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DEM,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PRFZ,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DGS,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EMLP,Energy Limited Partnership,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VYMI,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPXL,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+ARKQ,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+AMJ,Energy Limited Partnership,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+QYLD,Option Writing,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IEV,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RSX,Miscellaneous Region,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+DXJ,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ROBO,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VOOV,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ILF,Latin America Stock,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+DES,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JKH,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+LIT,Natural Resources,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+IYT,Industrials,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+MDYV,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XSLV,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+TNA,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+CWI,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FXH,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EWH,,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IYY,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+QDF,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IYF,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+EMQQ,Diversified Emerging Mkts,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+DLS,Foreign Small/Mid Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FDL,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+TILT,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SQQQ,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+TDIV,Technology,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FXD,Consumer Cyclical,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SLY,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CQQQ,China Region,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+KBWB,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+EWW,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+PHO,Natural Resources,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+XHB,Consumer Cyclical,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FDIS,Consumer Cyclical,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+GNR,Natural Resources,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XAR,Industrials,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IYC,Consumer Cyclical,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IYJ,Industrials,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PXH,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IYG,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+VIOO,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+QQEW,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+URTH,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+NUGT,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+IHF,Health,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IPAC,Diversified Pacific/Asia,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FUTY,Utilities,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FTC,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IVOO,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RPV,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PXF,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SIZE,Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EUFN,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+IPAY,Miscellaneous Sector,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IBUY,Consumer Cyclical,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+PNQI,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SDOG,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FEX,Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IXC,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+SIL,Equity Precious Metals,High Fundamental Broad Market,High Risk - Double Market Volatile
+JHML,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IWC,Small Blend,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+PKW,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JPIN,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PTH,Health,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+MJ,Miscellaneous Sector,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+INTF,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IWX,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FSTA,Consumer Defensive,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+IWL,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EWQ,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPYX,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IYM,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+LRGF,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FNCL,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+JKD,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IHDG,Foreign Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+XME,Natural Resources,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+VTHR,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+KBA,China Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RWL,Large Value,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+REGL,Mid-Cap Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CGW,Natural Resources,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+QUS,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IDLV,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DTD,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IVOG,Mid-Cap Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+NXTG,Technology,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+XSD,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+JKG,,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+GWX,Foreign Small/Mid Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+MOO,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SDS,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+RYH,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SDIV,,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+IDU,Utilities,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PWB,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+DHS,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XMMO,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FTA,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CFO,,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+JNUG,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+IPO,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ROM,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility
+PPA,Industrials,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+UDOW,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+EPI,India Equity,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IYK,Consumer Defensive,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+PEY,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FNX,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VIOV,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+MLPA,Energy Limited Partnership,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+OIH,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+XHE,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+JKK,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IMTM,Foreign Large Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+LVHD,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EEMA,Pacific/Asia ex-Japan Stk,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FPXI,Foreign Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FIW,Natural Resources,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SPXU,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+FCOM,Communications,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+CXSE,China Region,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+CFA,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PEJ,Consumer Cyclical,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+SMDV,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DVYE,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FXO,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+INDY,India Equity,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PWV,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SMLF,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XRT,Consumer Cyclical,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+EWS,Miscellaneous Region,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+GMF,Pacific/Asia ex-Japan Stk,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PSJ,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SILJ,Equity Precious Metals,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+EMGF,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CDC,,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+CRBN,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+DWM,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+KSA,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EZM,Mid-Cap Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FYX,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+OUSA,Large Value,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+KXI,Consumer Defensive,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+UWM,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+RDIV,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CHIQ,China Region,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+JPUS,Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+MLPX,Energy Limited Partnership,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+DWX,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+LGLV,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EWX,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+UYG,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+TLTD,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FENY,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+MXI,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CNYA,,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IVLU,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FIDU,Industrials,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+EQAL,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPXS,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+HDEF,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EWP,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JKF,,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XNTK,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VTWG,Small Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IQDF,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PSQ,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+PID,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+VTWV,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IVOV,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+QEFA,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPHB,Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DTN,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PFM,Large Value,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+HEZU,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DIV,Mid-Cap Value,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+DWAS,Small Growth,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+SDOW,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+ECH,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+IYE,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+RHS,Consumer Defensive,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RING,Equity Precious Metals,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+BBH,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PSCH,Health,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VIDI,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+GUSH,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+ERUS,Miscellaneous Region,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EES,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FNY,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PTF,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PZD,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EPS,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ONEV,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ONEY,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+QDEF,Large Value,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+CATH,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+VNM,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DBEU,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FEP,Europe Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+THD,Miscellaneous Region,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+XTN,Industrials,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FEM,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RTM,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+NANR,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPGM,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ERX,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+EZA,Miscellaneous Region,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+CSM,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IYZ,Communications,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FM,Diversified Emerging Mkts,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+TZA,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+XITK,,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+RGI,Industrials,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+DDM,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility
+VIOG,Small Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+KRMA,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EWD,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EWM,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FAN,Miscellaneous Sector,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EXI,Industrials,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FGD,Foreign Large Value,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+EIDO,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+PSCT,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+RXI,Consumer Cyclical,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+JKI,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RFG,Mid-Cap Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+PDN,Foreign Small/Mid Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+TPYP,Energy Limited Partnership,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+QQQE,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+GII,Infrastructure,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PSI,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+XSW,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FDT,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+NAIL,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+PBD,Miscellaneous Sector,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+KIE,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+VUSE,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IHE,Health,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+DOL,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FXR,Industrials,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PJP,Health,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+TUR,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+IXG,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+LABU,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+HEWJ,Japan Stock,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+URTY,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+IXP,Communications,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DOG,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+JKL,,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+IGE,Natural Resources,Mid Fundamentals Broad Market,High Risk - Double Market Volatile
+RCD,Consumer Cyclical,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SDG,,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+REMX,Equity Precious Metals,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+WOOD,Natural Resources,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EPOL,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DNL,Foreign Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+DFE,Europe Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FLGE,Large Growth,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+HFXI,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+KBWD,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+RWJ,Small Value,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+EDIV,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IAT,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+EELV,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EUSA,Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+BIZD,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+CAPE,Large Value,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+XPH,Health,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+YINN,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+TLTE,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EWN,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IFV,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PBE,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+KBWP,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+FNDB,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SBIO,Health,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+SGDM,Equity Precious Metals,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RWM,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+RWK,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DEF,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ROUS,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+JPME,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FXG,Consumer Defensive,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FNI,Miscellaneous Region,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PPH,Health,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ONEO,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FMAT,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+BIB,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+BRZU,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+EEMS,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JPEM,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPGP,Large Growth,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PIO,Natural Resources,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PGJ,China Region,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FYC,Small Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SLVP,Equity Precious Metals,Mid Fundamentals Broad Market,High Risk - Double Market Volatile
+SMIN,India Equity,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CZA,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+QID,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+FDD,Europe Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RYU,Utilities,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+JKJ,,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EDC,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+ENZL,Miscellaneous Region,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+SMLV,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PIE,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DBJP,Japan Stock,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+URA,Natural Resources,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+PRN,Industrials,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FAZ,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+FAD,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SMOG,Miscellaneous Sector,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FFTY,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+RTH,Consumer Cyclical,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PIZ,Foreign Large Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+COPX,Natural Resources,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+WDIV,World Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FXU,Utilities,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+HEEM,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EWI,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PSP,,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+GCOW,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DFJ,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CDL,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ADRE,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ECON,Diversified Emerging Mkts,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+SHE,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FXZ,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPEU,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+TOK,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+BKF,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+KLDW,World Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PKB,Industrials,Mid Fundamentals Broad Market,High Risk - Double Market Volatile
+ITEQ,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EPU,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DEUS,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RYF,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+IEO,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+EDEN,Miscellaneous Region,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+MLPB,Energy Limited Partnership,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+DTH,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+USD,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility
+DIM,Foreign Small/Mid Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DPST,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+IEUS,Europe Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RZV,Small Value,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+EQL,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IAI,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+GREK,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+MVV,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+LABD,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+ISCF,Foreign Small/Mid Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IQDG,Foreign Large Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+EPHE,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+IDOG,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FEMS,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JSMD,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+GAMR,Technology,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+RFDI,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPDN,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+DDWM,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+AMZA,Energy Limited Partnership,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+ATMP,Energy Limited Partnership,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+JXI,Utilities,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+QQXT,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FBGX,Large Growth,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+TOLZ,Infrastructure,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+GVAL,Foreign Small/Mid Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DOO,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+QEMM,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IGRO,,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DGRS,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CURE,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+CHAD,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+FXN,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+DXD,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+GRID,Miscellaneous Sector,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+XHS,Health,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CHAU,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+CVY,Allocation--70% to 85% Equity,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EFAD,Foreign Large Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ESGG,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PHDG,Long-Short Equity,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+XES,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+MILN,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PSL,Consumer Defensive,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+DJD,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+DIVC,Large Value,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+RYJ,Mid-Cap Growth,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+BFOR,Mid-Cap Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FYT,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FDM,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RZG,Small Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PWC,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EIS,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SGDJ,Equity Precious Metals,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+DIG,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+RXL,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility
+ETHO,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SRTY,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+EWZS,Latin America Stock,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+INDL,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+ESG,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+DBEM,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CIL,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XSMO,Small Growth,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+IPKW,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PIN,India Equity,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+DBAW,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FCG,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+QAT,Miscellaneous Region,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+CSB,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JPXN,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DGRE,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FSZ,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IDHQ,Foreign Large Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FGM,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SOXS,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+DUST,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+CUT,Natural Resources,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ZJPN,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+QVAL,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+QLC,,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+HAWX,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ACWF,World Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XSVM,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EWMC,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+INCO,India Equity,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPVU,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+MMTM,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+QABA,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+BICK,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DGT,World Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XMHQ,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RESP,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+LOWC,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PYZ,Natural Resources,Mid Fundamentals Broad Market,High Risk - Double Market Volatile
+AADR,Foreign Large Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JDST,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+DEEF,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+TWM,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+BJK,Consumer Cyclical,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+IVAL,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IEZ,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+ISRA,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+MIDU,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+RFFC,Large Blend,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+JSML,Small Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FAB,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+AMUB,Energy Limited Partnership,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+SYLD,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPMO,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+DRIP,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+AIRR,Industrials,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EQWL,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PBJ,Consumer Defensive,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IQDE,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EWUS,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XWEB,Technology,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+GLIN,India Equity,High Fundamental Broad Market,High Risk - Double Market Volatile
+RUSL,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+CSD,Mid-Cap Blend,Mid Fundamentals Broad Market,High Risk - Double Market Volatile
+GURU,Large Growth,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+TECS,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+RFV,Small Value,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+QSY,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DEW,World Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PEZ,Consumer Cyclical,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+HEWG,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SCJ,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IAK,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+HDGE,Bear Market,"Low Fundamental ETF’s (Energy, Health,Finance)",Betting against the market 
+SLX,Natural Resources,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+GOEX,Equity Precious Metals,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+EIRL,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FTHI,Option Writing,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RYE,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+PRNT,Technology,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+HSCZ,Foreign Small/Mid Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PSCI,Industrials,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CARZ,Consumer Cyclical,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EET,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+MOTI,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IVES,,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+IGN,Technology,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+CHIX,China Region,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+LVHI,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EWO,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XTL,Communications,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+KORU,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+BRF,Latin America Stock,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+PUI,Utilities,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ECNS,China Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PBS,Consumer Cyclical,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+XRLV,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+AFK,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FILL,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+HAP,Natural Resources,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+LNGR,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+WBIG,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RFEM,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PFI,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+GLCN,China Region,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+JHMT,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+CNCR,Health,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+RETL,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+IMOM,Foreign Large Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+XMVM,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CSF,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+KNOW,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CNXT,China Region,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+ARGT,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+MLPI,Energy Limited Partnership,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+KCE,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+ZCAN,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DBLV,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+GXG,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+QWLD,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+BDCZ,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+ROAM,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JHMH,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PXQ,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+WBIL,Large Blend,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+EVSTC,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+MLPC,Energy Limited Partnership,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+QMOM,,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+NGE,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+BBC,Health,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+CIZ,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ENFR,Energy Limited Partnership,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+UYM,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+UMDD,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+SSPY,,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EUDG,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FJP,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JHMC,Consumer Cyclical,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+LEAD,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EWK,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+WBIE,Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EWGS,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+KBWR,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+NORW,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DDLS,Foreign Small/Mid Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FVL,Mid-Cap Blend,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+YANG,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+WBIF,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IDX,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+KOL,Miscellaneous Sector,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ERY,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+FNK,Small Value,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+VEGI,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PAK,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+XPP,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+IPOS,Foreign Small/Mid Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ZMLP,Energy Limited Partnership,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+ASHS,China Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPVM,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EUSC,Europe Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EURL,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+DAX,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PSCC,Consumer Defensive,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ASEA,Pacific/Asia ex-Japan Stk,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+VLU,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RSXJ,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DXJS,Japan Stock,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+LBJ,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+IQDY,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PSET,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+DEEP,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DVYA,Diversified Pacific/Asia,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EVX,Industrials,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DXGE,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+UTES,,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ISZE,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EFNL,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PSCF,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+ALFA,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EWSC,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ZDEU,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JHMF,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+BBP,Health,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+CN,China Region,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+UCC,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility
+PSCE,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+FEUZ,Europe Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EUM,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+DDIV,Mid-Cap Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+BDCS,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+XCEM,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EDZ,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+SAA,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+PSCD,Consumer Cyclical,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+JHMA,,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+GXF,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SYG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FID,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FLQD,World Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FYLD,Foreign Small/Mid Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JHMS,,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SDEM,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+OLD,Real Estate,Mid Fundamentals Broad Market,High Risk - Double Market Volatile
+FIHD,World Stock,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+SMCP,Small Growth,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FLQE,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ICOL,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+EMDV,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EINC,Energy Limited Partnership,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+EDOG,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SKF,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+GRES,Natural Resources,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ENOR,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+GSJY,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CID,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FXP,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+UXI,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+HDAW,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+BFIT,,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JHMU,,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FMK,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+CSA,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+OEUR,Europe Stock,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPUU,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility
+SPXE,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PSCU,Utilities,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SYE,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+PEX,Miscellaneous Sector,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+PXI,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+RFEU,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+MYY,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+FKU,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EYLD,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EGPT,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+SYV,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+GSEU,Europe Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DUG,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+NLR,Miscellaneous Sector,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+CHIC,China Region,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+CRAK,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+BZQ,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+FPA,Pacific/Asia ex-Japan Stk,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FIEE,Europe Stock,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+PGAL,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PY,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+DBEZ,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PXE,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+EMFM,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+TUSA,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JPN,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EMIF,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+MLPO,Energy Limited Partnership,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+QDYN,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SEF,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+FLQG,World Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EEMO,Diversified Emerging Mkts,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+FLN,Latin America Stock,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+UAE,Miscellaneous Region,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+DBGR,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+JHME,,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+ASHX,China Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+KFYP,China Region,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FCA,China Region,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+SMEZ,Europe Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+UPW,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+HEWC,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EFO,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+UGE,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+ZGBR,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IMLP,Energy Limited Partnership,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+DZK,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+FRAK,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+EFZ,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+BIS,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+IDLB,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FLQH,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+AFTY,China Region,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EPV,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+SDYL,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+HEWU,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+PSCM,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FBZ,Latin America Stock,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+CEZ,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FTRI,Natural Resources,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EUDV,,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+USLB,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+UBR,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+RFAP,Diversified Pacific/Asia,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FDTS,Foreign Small/Mid Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+IDMO,Foreign Large Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility
+PXJ,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+SMDD,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+JPNL,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+AMU,Energy Limited Partnership,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+FLM,Industrials,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+ROSC,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EEV,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+SBB,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+DEFA,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPXN,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EURZ,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+REW,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+ESGS,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+EZJ,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+UPV,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+EWV,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+QVM,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SPXT,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+ESGN,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FTLB,Option Writing,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+YXI,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+WIL,Large Blend,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility
+SSG,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+NFTY,India Equity,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FTAG,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+FHK,China Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+SDD,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+HJPX,Japan Stock,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+DDG,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+FCAN,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+MZZ,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+FAUS,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+MLPG,Energy Limited Partnership,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile
+SMN,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+CHII,China Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RODI,Large Blend,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+SDP,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+CHIM,China Region,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+FKO,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+SPXV,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility
+EFU,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+CHIE,China Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility
+RXD,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+SIJ,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+SBM,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+EEH,Large Blend,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility
+LTL,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile
+HEWW,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile
+SCC,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
+SZK,Trading--Inverse Equity,Market Inverse ETF,Betting against the market 
