@@ -37,7 +37,7 @@ if len(risk) > 0 and len(funds) > 0 and len(category)>0:
     col4, col5 = st.beta_columns(2)
     col4.dataframe(selected_df)
 
-    fig = px.pie(selected_df, names = "Category", title="Asset Universe Allocation")
+    fig = px.pie(selected_df, names = "Category", title="Asset Universe Allocation", height= = )
     col5.plotly_chart(fig)
 
 
