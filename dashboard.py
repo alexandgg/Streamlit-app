@@ -36,6 +36,7 @@ selected_df = fundamental_df[(fundamental_df["Risk Cluster"].isin(risk)) & (fund
 if len(risk) > 0 and len(funds) > 0 and len(category)>0:
     col4, col5 = st.beta_columns(2)
     col4.dataframe(selected_df)
+    st.write("Numer of ETf's: {}".format(len(selected_df)))
 
     fig = px.pie(selected_df, names = "Category", title="Asset Universe Allocation")
     col5.plotly_chart(fig)
