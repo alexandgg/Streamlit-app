@@ -48,6 +48,7 @@ selected_tickers = fundamental_df[(fundamental_df["Risk Cluster"].isin(risk)) & 
 
 selected_df = fundamental_df[(fundamental_df["Risk Cluster"].isin(risk)) & (fundamental_df["Fundamental Cluster"].isin(funds_selected)) & (fundamental_df["Category"].isin(category_selected))  ]
 
+
 if len(risk) > 0 and len(funds) > 0 and len(category_selected)>0:
     col4, col5 = st.beta_columns(2)
     col4.dataframe(selected_df)
@@ -56,57 +57,76 @@ if len(risk) > 0 and len(funds) > 0 and len(category_selected)>0:
     fig = px.pie(selected_df, names = "Category", title="Asset Universe Allocation")
     col5.plotly_chart(fig)
 
-    number_of_assets = st.selectbox("Please pick number of assets desired to invest in", [x for x in range(1, 11)])
-    if number_of_assets > 1:
-        ############ PDI calculation ############
-        samples = []
+
+PDI_DF = pd.DataFrame()
+PDI_dict = {}
+number_of_assets = [0]
+number_of_assets.extend([x for x in range(2,11)])
+number_of_assets_selected = st.selectbox("Please pick number of assets desired to invest in", number_of_assets)
+if number_of_assets_selected == 0:
+    st.error("Please choose a number of assets")
+if number_of_assets_selected > 2:
+    ############ PDI calculation ############
+
+    samples = [["SPY"]]
+    for number in range(2,number_of_assets_selected, 1):
         for i in range(1,2000):
             #samples.extend([list(x) for x in combinations(selected_tickers, number_of_assets)])
-            samples.append(random.sample(selected_tickers,number_of_assets))
-
-        #st.sidebar.header("Test")
+            samples.append(random.sample(list(selected_tickers),number))
 
 
 
-        pca = PCA()
-        PDI_dict = {}
-        for i,y in zip(samples,range(len(samples))):
-            n_assets = len(i)
-            portfolio_weights_ew = np.repeat(1/n_assets, n_assets)
-            port_weekly_return = weekly_return[i].mul(portfolio_weights_ew,axis=1).sum(axis=1)
-            ann_ret = meanRetAn(list(port_weekly_return))
-            an_cov = weekly_return[i].cov()
-            port_std = np.sqrt(np.dot(portfolio_weights_ew.T, np.dot(an_cov, portfolio_weights_ew)))*np.sqrt(52)
-            corr_matrix = np.array(weekly_return[i].corr())
-            principalComponents = pca.fit(corr_matrix)
-            PDI = 2*sum(principalComponents.explained_variance_ratio_*range(1,len(principalComponents.explained_variance_ratio_)+1,1))-1
-            PDI_dict[y] = {}
-            PDI_dict[y]["PDI_INDEX"] = PDI
-            PDI_dict[y]["Number of Assets"] = len(i)
-            PDI_dict[y]["Assets"] = i
-            PDI_dict[y]["Sharpe Ratio"] = ann_ret/port_std
-            PDI_dict[y]["Annual Return"] = ann_ret
-            PDI_dict[y]["Annual STD"] = port_std
 
-        PDI_DF = pd.DataFrame(PDI_dict).T
-        PDI_DF["Assets"] = PDI_DF["Assets"].astype(str)
-        PDI_DF["Number of Assets"] = PDI_DF["Number of Assets"].astype(int)
-        PDI_DF["Sharpe Ratio"] = PDI_DF["Sharpe Ratio"].astype(float)
-        PDI_DF["Annual STD"] = PDI_DF["Annual STD"].astype(float)
-        PDI_DF["PDI_INDEX"] = PDI_DF["PDI_INDEX"].astype(float)
-        PDI_DF["Annual Return"] = PDI_DF["Annual Return"].astype(float)
+    pca = PCA()
+    PDI_dict = {}
+    for i,y in zip(samples,range(len(samples))):
+        n_assets = len(i)
+        portfolio_weights_ew = np.repeat(1/n_assets, n_assets)
+        port_weekly_return = weekly_return[i].mul(portfolio_weights_ew,axis=1).sum(axis=1)
+        ann_ret = meanRetAn(list(port_weekly_return))
+        an_cov = weekly_return[i].cov()
+        port_std = np.sqrt(np.dot(portfolio_weights_ew.T, np.dot(an_cov, portfolio_weights_ew)))*np.sqrt(52)
+        corr_matrix = np.array(weekly_return[i].corr())
+        principalComponents = pca.fit(corr_matrix)
+        PDI = 2*sum(principalComponents.explained_variance_ratio_*range(1,len(principalComponents.explained_variance_ratio_)+1,1))-1
+        PDI_dict[y] = {}
+        PDI_dict[y]["PDI_INDEX"] = PDI
+        PDI_dict[y]["Number of Assets"] = len(i)
+        PDI_dict[y]["Assets"] = i
+        PDI_dict[y]["Sharpe Ratio"] = ann_ret/port_std
+        PDI_dict[y]["Annual Return"] = ann_ret
+        PDI_dict[y]["Annual STD"] = port_std
 
+    PDI_DF = pd.DataFrame(PDI_dict).T
+    PDI_DF["Assets"] = PDI_DF["Assets"].astype(str)
+    PDI_DF["Number of Assets"] = PDI_DF["Number of Assets"].astype(int)
+    PDI_DF["Sharpe Ratio"] = PDI_DF["Sharpe Ratio"].astype(float)
+    PDI_DF["Annual STD"] = PDI_DF["Annual STD"].astype(float)
+    PDI_DF["PDI_INDEX"] = PDI_DF["PDI_INDEX"].astype(float)
+    PDI_DF["Annual Return"] = PDI_DF["Annual Return"].astype(float)
 
-        if len(PDI_DF) > 0:
-            fig = px.scatter(PDI_DF, x ="PDI_INDEX" , y = "Sharpe Ratio", hover_data=["Assets"])
-            fig.update_layout(
+SPY_DF = PDI_DF.iloc[0,:]
+PDI_DF_2 = PDI_DF.copy()
+min_df = float(PDI_DF_2["PDI_INDEX"].min())
+max_df = float(PDI_DF_2["PDI_INDEX"].max())
+
+# while min_df != max_df and min_df < max_df:
+a = st.slider("Diversification Slider", min_value=float(PDI_DF_2["PDI_INDEX"].min()), max_value=float(PDI_DF_2["PDI_INDEX"].max()))
+PDI_DF_2 = PDI_DF_2[PDI_DF_2["PDI_INDEX"] >= a]
+# st.write(a)
+
+st.dataframe(PDI_DF_2)
+if len(PDI_DF_2) > 0:
+    fig = px.scatter(PDI_DF_2, x ="PDI_INDEX" , y = "Sharpe Ratio", hover_data=["Assets"], color = "Annual STD")
+    fig.update_layout(
                 title="Portfolio Diversificaton",
                 xaxis_title="Diversification",
                 yaxis_title="Sharpe Ratio",
                 legend_title="Clusters",
                 legend = dict(orientation = "v", y=-0.1, x=0 ,xanchor = 'left',
                 yanchor ='top'))
-            st.plotly_chart(fig,use_container_width=True)
+    fig.add_hline(y=SPY_DF["Sharpe Ratio"], line_color= "orange", annotation_text=SPY_DF["Assets"], line_dash="dot",annotation_position="bottom right")
+    st.plotly_chart(fig,use_container_width=True)
 
 
 
