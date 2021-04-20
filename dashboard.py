@@ -62,7 +62,7 @@ def calculate_pdi(num_assets, tickers, weekly_returns):
 
     PDI_DF = pd.DataFrame(PDI_dict).T
     PDI_DF["Assets"] = PDI_DF["Assets"].astype(str)
-    PDI_DF["# of Assets"] = PDI_DF["# of Assets"].astype(int)
+    PDI_DF["# of Assets"] = PDI_DF["# of Assets"].astype(str)
     PDI_DF["Sharpe Ratio"] = PDI_DF["Sharpe Ratio"].astype(float)
     PDI_DF["Annual STD"] = PDI_DF["Annual STD"].astype(float)
     PDI_DF["PDI_INDEX"] = PDI_DF["PDI_INDEX"].astype(float)
@@ -78,11 +78,15 @@ st.set_page_config(layout="wide")
 #Title 
 st.title("ETF Funnel")
 #Load DataFrames
+df = pd.read_csv("ETFs_info.csv", index_col="Ticker")
+df["Inception"] = pd.to_datetime(df["Inception"])
+df = df[df["Inception"] <= "2015-01-01"]
+
 fundamental_df = pd.read_csv("fund_risk_cluster_reduced.csv",index_col="Ticker") #Fundamental Clustering Data
 weekly_return = pd.read_csv("WeeklyReturns.csv",index_col="Date") #Weekly Return Data
 fundamental_df = fundamental_df.loc[fundamental_df.index.intersection(weekly_return.columns)]
-
-
+fundamental_df = fundamental_df.loc[fundamental_df.index.intersection(df.index)]
+st.write(len(fundamental_df))
 
 #Streamlit Code
 col1, col2, col3 = st.beta_columns(3)
@@ -140,7 +144,7 @@ else:
     progress_bar.empty()
 
     changing_pdi_df = PDI_DF.copy()
-    changing_pdi_df["# of Assets"] = changing_pdi_df["# of Assets"].astype(str)
+    changing_pdi_df["# of Assets"] = changing_pdi_df["# of Assets"]
     min = float(PDI_DF["PDI_INDEX"].min())
     max = float(PDI_DF["PDI_INDEX"].max())
 
@@ -158,14 +162,12 @@ else:
     col2.write("Annual Mean Return: {}".format(SPY_DF["Annual Return"].round(3)))
     col2.write("Annual Standard Deviation: {}".format(SPY_DF["Annual STD"].round(3)))
 
-    fig = px.scatter(changing_pdi_df, x ="PDI_INDEX" , y = "Sharpe Ratio", hover_data=["Assets",changing_pdi_df.index], color = "# of Assets")
-    fig.update_layout(
-                title="Portfolio Diversificaton",
-                xaxis_title="Diversification",
-                yaxis_title="Sharpe Ratio",
-                legend_title="Volatility",
-                legend = dict(orientation = "v", y=-0.1, x=0 ,xanchor = 'left',
-                yanchor ='top'))
+    fig = px.scatter(changing_pdi_df, x ="PDI_INDEX" , y = "Sharpe Ratio", hover_data=["Assets",changing_pdi_df.index, "Annual STD"], color = "# of Assets")
+    # fig.update_layout(
+    #             title="Portfolio Diversificaton",
+    #             xaxis_title="Diversification",
+    #             yaxis_title="Sharpe Ratio",
+    #             legend_title="Volatility")
     fig.add_hline(y=SPY_DF["Sharpe Ratio"], line_color= "orange", annotation_text=SPY_DF["Assets"], line_dash="dot",annotation_position="bottom right")
     st.plotly_chart(fig,use_container_width=True)
     
