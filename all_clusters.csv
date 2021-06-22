@@ -1,0 +1,696 @@
+,Category,Fundamental Cluster,Risk Cluster,kmean_env_cluster,Kmean_Social_cluster,Kmean_Gov_cluster
+SPY,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IVV,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VTI,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VOO,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+QQQ,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VEA,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IEFA,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+VWO,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+VUG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IEMG,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IWF,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VTV,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IWM,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IJR,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IJH,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EFA,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+VIG,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IWD,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VGT,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VO,Mid-Cap Blend,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+VXUS,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+XLK,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VB,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+USMV,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+IVW,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+ITOT,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VYM,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VEU,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EEM,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IWB,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+SCHX,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+XLV,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+IXUS,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IWR,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+XLF,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+DIA,Large Value,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+SCHF,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+QUAL,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VV,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IVE,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+XLY,Consumer Cyclical,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+SCHB,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+RSP,Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+VBR,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+MDY,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+ARKK,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SDY,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+VT,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+GDX,Equity Precious Metals,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+SCHD,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+XLI,Industrials,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+IWP,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+DGRO,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VGK,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DVY,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+VBK,Small Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+ACWI,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VXF,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EWJ,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+XLP,Consumer Defensive,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+SCHG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+XLE,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+MTUM,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+VHT,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+SCHA,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+XLU,Utilities,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+IWO,Small Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IWN,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IWS,Mid-Cap Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+SCZ,Foreign Small/Mid Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+VOE,Mid-Cap Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+EFAV,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IWV,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IUSG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IBB,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+VOT,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FVD,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+EFG,Foreign Large Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+MGK,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+SPYG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VLUE,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IHI,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SPDW,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+SCHE,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+SPLV,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+SCHM,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SCHV,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IJK,Mid-Cap Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SPLG,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IUSV,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+ARKG,Health,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SPYV,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+EFV,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+OEF,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VFH,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+EWY,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+NOBL,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+FTCS,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+XBI,Health,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IYW,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+EWZ,Latin America Stock,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+MCHI,China Region,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IJS,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+GDXJ,Equity Precious Metals,Mid Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+SKYY,Technology,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IGV,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+ACWV,World Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+HDV,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VSS,Foreign Small/Mid Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+VDC,Consumer Defensive,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+AAXJ,Pacific/Asia ex-Japan Stk,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+VONG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IJJ,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EWT,China Region,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+FNDF,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FNDX,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+FTEC,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+ARKW,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IJT,Small Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+XLB,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EZU,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DGRW,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IXN,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+SPEM,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+VOOG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+SOXX,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+VCR,Consumer Cyclical,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+INDA,India Equity,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+ICLN,Miscellaneous Sector,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+VPL,Diversified Pacific/Asia,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PRF,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VPU,Utilities,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+SPTM,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+AMLP,Energy Limited Partnership,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+EEMV,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+MOAT,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+FXI,,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IEUR,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+QLD,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+SMH,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+VIS,Industrials,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+IDV,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+ACWX,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DBEF,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FNDA,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+KWEB,China Region,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+ONEQ,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+FNDE,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+TAN,Miscellaneous Sector,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+GUNR,Natural Resources,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+MGV,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IWY,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+SPMD,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+XSOE,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+VONV,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+QTEC,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+VDE,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+MGC,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VOX,Communications,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+SPSM,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+VTWO,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IGM,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+SSO,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IGF,Infrastructure,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+SCHC,Foreign Small/Mid Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+EWU,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+ITA,Industrials,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+IOO,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+SLYV,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+RPG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EWC,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+DON,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+DSI,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+EWG,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DLN,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+FXL,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+AIA,Pacific/Asia ex-Japan Stk,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+SPHD,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+KBE,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IYH,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+IXJ,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+FHLC,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+SPHQ,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+HEFA,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PDP,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FV,Large Growth,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+ASHR,China Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+RYT,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+XOP,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+VAW,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FNDC,Foreign Small/Mid Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+SUSA,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+NFRA,Infrastructure,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+FAS,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+EPP,Pacific/Asia ex-Japan Stk,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+TECL,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+ITB,Consumer Cyclical,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+MDYG,Mid-Cap Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+HACK,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+VONE,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+FPX,Large Growth,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+HEDJ,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+SLYG,Small Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+KRE,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+QCLN,Miscellaneous Sector,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SOXL,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FEZ,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+JKE,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,,,
+RDVY,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+SH,Trading--Inverse Equity,Market Inverse ETF,Betting against the market ,,,
+GXC,China Region,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+UPRO,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+EWA,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+EWL,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+XLG,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+XMLV,Mid-Cap Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+DEM,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+PRFZ,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EMLP,Energy Limited Partnership,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+SPXL,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+ARKQ,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+QYLD,Option Writing,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IEV,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+RSX,Miscellaneous Region,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DXJ,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+ROBO,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+VOOV,Large Value,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+ILF,Latin America Stock,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+DES,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+JKH,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,,,
+LIT,Natural Resources,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+IYT,Industrials,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+MDYV,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+XSLV,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+TNA,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+CWI,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EWH,,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IYY,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+QDF,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IYF,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+EMQQ,Diversified Emerging Mkts,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DLS,Foreign Small/Mid Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+FDL,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+TILT,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+SQQQ,Trading--Inverse Equity,Market Inverse ETF,Betting against the market ,,,
+TDIV,Technology,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+FXD,Consumer Cyclical,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SLY,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+CQQQ,China Region,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+KBWB,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+EWW,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+PHO,Natural Resources,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+XHB,Consumer Cyclical,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FDIS,Consumer Cyclical,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+GNR,Natural Resources,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+XAR,Industrials,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+IYC,Consumer Cyclical,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IYJ,Industrials,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+PXH,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IYG,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VIOO,Small Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+QQEW,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+URTH,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IHF,Health,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+IPAC,Diversified Pacific/Asia,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FUTY,Utilities,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+FTC,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IVOO,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+RPV,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+PXF,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+SIZE,Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+EUFN,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+SDOG,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+FEX,Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+IXC,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+SIL,Equity Precious Metals,High Fundamental Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+PKW,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+JPIN,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IWX,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+FSTA,Consumer Defensive,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IWL,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+EWQ,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IYM,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FNCL,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+JKD,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,,,
+IHDG,Foreign Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+XME,Natural Resources,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+VTHR,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+KBA,China Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+RWL,Large Value,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+CGW,Natural Resources,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+IDLV,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DTD,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IVOG,Mid-Cap Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+NXTG,Technology,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+XSD,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+JKG,,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,,,
+GWX,Foreign Small/Mid Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+MOO,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+SDS,Trading--Inverse Equity,Market Inverse ETF,Betting against the market ,,,
+RYH,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SDIV,,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IDU,Utilities,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+PWB,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+DHS,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+XMMO,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FTA,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+CFO,,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+IPO,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+ROM,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+PPA,Industrials,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+UDOW,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+EPI,India Equity,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IYK,Consumer Defensive,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+PEY,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+FNX,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+VIOV,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+MLPA,Energy Limited Partnership,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+OIH,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+JKK,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,,,
+EEMA,Pacific/Asia ex-Japan Stk,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FPXI,Foreign Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+FIW,Natural Resources,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FCOM,Communications,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+CXSE,China Region,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+CFA,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+PEJ,Consumer Cyclical,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+DVYE,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FXO,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+INDY,India Equity,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+PWV,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+XRT,Consumer Cyclical,Low Fundamentals Broad Market,High Risk - Double Market Volatile,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EWS,Miscellaneous Region,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+GMF,Pacific/Asia ex-Japan Stk,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PSJ,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SILJ,Equity Precious Metals,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+CDC,,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+CRBN,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+DWM,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EZM,Mid-Cap Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FYX,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+KXI,Consumer Defensive,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+UWM,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+RDIV,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+CHIQ,China Region,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+MLPX,Energy Limited Partnership,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+DWX,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+LGLV,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+TLTD,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FENY,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+MXI,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+FIDU,Industrials,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+EQAL,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+EWP,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+XNTK,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+VTWG,Small Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IQDF,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PSQ,Trading--Inverse Equity,Market Inverse ETF,Betting against the market ,,,
+PID,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+VTWV,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IVOV,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+QEFA,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+SPHB,Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+DTN,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+PFM,Large Value,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+HEZU,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DIV,Mid-Cap Value,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+DWAS,Small Growth,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SDOW,Trading--Inverse Equity,Market Inverse ETF,Betting against the market ,,,
+ECH,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IYE,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+RHS,Consumer Defensive,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+RING,Equity Precious Metals,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+BBH,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+VIDI,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+ERUS,Miscellaneous Region,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EES,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FNY,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+PZD,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,,,
+EPS,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+QDEF,Large Value,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+DBEU,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FEP,Europe Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+THD,Miscellaneous Region,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+XTN,Industrials,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FEM,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+RTM,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SPGM,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+EZA,Miscellaneous Region,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+CSM,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IYZ,Communications,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+TZA,Trading--Inverse Equity,Market Inverse ETF,Betting against the market ,,,
+RGI,Industrials,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+DDM,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+VIOG,Small Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EWD,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+EWM,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FAN,Miscellaneous Sector,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EXI,Industrials,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+FGD,Foreign Large Value,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+EIDO,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PSCT,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+RXI,Consumer Cyclical,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+JKI,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,,,
+RFG,Mid-Cap Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+PDN,Foreign Small/Mid Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+QQQE,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+GII,Infrastructure,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+PSI,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+XSW,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FDT,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PBD,Miscellaneous Sector,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+KIE,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+VUSE,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IHE,Health,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+DOL,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FXR,Industrials,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+PJP,Health,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+TUR,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IXG,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+HEWJ,Japan Stock,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IXP,Communications,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+JKL,,Low Fundamentals Broad Market,High Risk - Double Market Volatile,,,
+IGE,Natural Resources,Mid Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+RCD,Consumer Cyclical,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+REMX,Equity Precious Metals,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+WOOD,Natural Resources,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+EPOL,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DNL,Foreign Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+DFE,Europe Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+RWJ,Small Value,Low Fundamentals Broad Market,High Risk - Double Market Volatile,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EDIV,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IAT,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+EELV,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EUSA,Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+XPH,Health,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+YINN,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+TLTE,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EWN,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+IFV,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PBE,Health,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+KBWP,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FNDB,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+SGDM,Equity Precious Metals,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+RWK,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+DEF,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+FXG,Consumer Defensive,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+FNI,Miscellaneous Region,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PPH,Health,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+FMAT,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SPGP,Large Growth,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+PIO,Natural Resources,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+PGJ,China Region,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FYC,Small Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SLVP,Equity Precious Metals,Mid Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+CZA,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FDD,Europe Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+RYU,Utilities,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+JKJ,,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,,,
+EDC,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+ENZL,Miscellaneous Region,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+SMLV,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+PIE,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DBJP,Japan Stock,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PRN,Industrials,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FAD,Mid-Cap Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SMOG,Miscellaneous Sector,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+RTH,Consumer Cyclical,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+PIZ,Foreign Large Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+COPX,Natural Resources,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+WDIV,World Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FXU,Utilities,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+HEEM,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EWI,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PSP,,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+DFJ,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+ADRE,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+ECON,Diversified Emerging Mkts,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FXZ,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SPEU,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+TOK,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+BKF,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PKB,Industrials,Mid Fundamentals Broad Market,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EPU,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+RYF,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+IEO,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EDEN,Miscellaneous Region,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+DTH,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+USD,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+DIM,Foreign Small/Mid Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IEUS,Europe Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+RZV,Small Value,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EQL,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+IAI,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+GREK,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile,,,
+MVV,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EPHE,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IDOG,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+JXI,Utilities,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+QQXT,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+TOLZ,Infrastructure,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+GVAL,Foreign Small/Mid Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,,,
+DOO,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+QEMM,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DGRS,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+CURE,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+FXN,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+GRID,Miscellaneous Sector,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+XHS,Health,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+CVY,Allocation--70% to 85% Equity,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+EFAD,Foreign Large Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PHDG,Long-Short Equity,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,,,
+XES,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+PSL,Consumer Defensive,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+RYJ,Mid-Cap Growth,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+BFOR,Mid-Cap Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FYT,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+RZG,Small Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+PWC,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+EIS,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+DIG,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+RXL,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+EWZS,Latin America Stock,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+DBEM,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+XSMO,Small Growth,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IPKW,Foreign Large Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PIN,India Equity,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+DBAW,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,,,
+FCG,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+QAT,Miscellaneous Region,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,,,
+JPXN,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DGRE,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FSZ,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+IDHQ,Foreign Large Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FGM,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+SOXS,Trading--Inverse Equity,Market Inverse ETF,Betting against the market ,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+CUT,Natural Resources,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+ZJPN,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+QVAL,,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+XSVM,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EWMC,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+MMTM,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+QABA,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+BICK,Diversified Emerging Mkts,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DGT,World Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+XMHQ,Mid-Cap Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+RESP,Large Blend,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+LOWC,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+PYZ,Natural Resources,Mid Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+AADR,Foreign Large Growth,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+BJK,Consumer Cyclical,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IVAL,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IEZ,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+ISRA,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+MIDU,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+FAB,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+SYLD,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+AIRR,Industrials,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EQWL,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+PBJ,Consumer Defensive,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+IQDE,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EWUS,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+GLIN,India Equity,High Fundamental Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+CSD,Mid-Cap Blend,Mid Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+GURU,Large Growth,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+RFV,Small Value,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+QSY,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+DEW,World Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+PEZ,Consumer Cyclical,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,,,
+HEWG,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+SCJ,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IAK,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SLX,Natural Resources,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+GOEX,Equity Precious Metals,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+EIRL,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+FTHI,Option Writing,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+RYE,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+PSCI,Industrials,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+CARZ,Consumer Cyclical,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+IGN,Technology,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+CHIX,China Region,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EWO,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+XTL,Communications,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+BRF,Latin America Stock,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+PUI,Utilities,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+PBS,Consumer Cyclical,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+AFK,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FILL,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+HAP,Natural Resources,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+WBIG,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+PFI,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+GLCN,China Region,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+RETL,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,High Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+XMVM,Mid-Cap Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+CSF,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+ARGT,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+KCE,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+ZCAN,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+DBLV,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+GXG,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+QWLD,World Stock,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+PXQ,Technology,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+WBIL,Large Blend,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+NGE,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+CIZ,Foreign Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+ENFR,Energy Limited Partnership,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+UYM,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+UMDD,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+EUDG,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FJP,Japan Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EWK,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+WBIE,Large Blend,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+EWGS,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+KBWR,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+NORW,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+WBIF,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+IDX,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FNK,Small Value,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+VEGI,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+IPOS,Foreign Small/Mid Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+SPVM,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+EURL,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+DAX,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PSCC,Consumer Defensive,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+ASEA,Pacific/Asia ex-Japan Stk,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+VLU,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+DXJS,Japan Stock,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+IQDY,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DEEP,Small Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+DVYA,Diversified Pacific/Asia,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EVX,Industrials,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+DXGE,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EFNL,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+PSCF,Financial,"Low Fundamental ETF’s (Energy, Health,Finance)",Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+ALFA,,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EWSC,Small Blend,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+ZDEU,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+CN,China Region,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+UCC,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+PSCE,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FEUZ,Europe Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DDIV,Mid-Cap Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EDZ,Trading--Inverse Equity,Market Inverse ETF,Betting against the market ,,,
+SAA,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+PSCD,Consumer Cyclical,Low Fundamentals Broad Market,High Risk - Double Market Volatile,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+GXF,Miscellaneous Region,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+SYG,Large Growth,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+FID,Foreign Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FYLD,Foreign Small/Mid Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+ICOL,Miscellaneous Region,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EINC,Energy Limited Partnership,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+EDOG,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+GRES,Natural Resources,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+ENOR,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+UXI,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+SPUU,Trading--Leveraged Equity,Market Leveraged ETF,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+PSCU,Utilities,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SYE,Large Blend,Mid Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+PXI,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FKU,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+SYV,Large Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+NLR,Miscellaneous Sector,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+CHIC,China Region,High Fundamental Broad Market,Moderat/High Risk - Slightly Above Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+FPA,Pacific/Asia ex-Japan Stk,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PGAL,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DBEZ,Europe Stock,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+PXE,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EMFM,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+EMIF,Diversified Emerging Mkts,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+QDYN,Large Value,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+EEMO,Diversified Emerging Mkts,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FLN,Latin America Stock,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+UAE,Miscellaneous Region,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+DBGR,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+KFYP,China Region,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FCA,China Region,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+SMEZ,Europe Stock,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+UPW,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,Low Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+UGE,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,High Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+ZGBR,Miscellaneous Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+FRAK,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+PSCM,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FBZ,Latin America Stock,Low Fundamentals Broad Market,High Risk - Double Market Volatile,Low Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+FTRI,Natural Resources,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Low Social_Responsibility,High Gov_Responsibility
+FDTS,Foreign Small/Mid Value,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+IDMO,Foreign Large Growth,High Fundamental Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+PXJ,Equity Energy,"Low Fundamental ETF’s (Energy, Health,Finance)",High Risk - Double Market Volatile,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FLM,Industrials,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FTLB,Option Writing,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Neutral Env_Responsibility,Low Social_Responsibility,Neutral Gov_Responsibility
+NFTY,India Equity,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,Low Gov_Responsibility
+FTAG,Natural Resources,Mid Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
+CHII,China Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,High Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+CHIM,China Region,Low Fundamentals Broad Market,Moderat/High Risk - Slightly Above Market Volatility,Low Env_Responsibility,Low Social_Responsibility,Low Gov_Responsibility
+CHIE,China Region,Low Fundamentals Broad Market,Moderat Risk - Slighty Below Market Volatility,Low Env_Responsibility,High Social_Responsibility,Low Gov_Responsibility
+LTL,Trading--Leveraged Equity,Market Leveraged ETF,High Risk - Double Market Volatile,High Env_Responsibility,Neutral Social_Responsibility,High Gov_Responsibility
